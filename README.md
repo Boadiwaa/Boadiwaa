@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boadiwaa
 - 👀 I’m interested in Data Science and Artificial Intelligence!
-- 🌱 I’m currently upskilling in Python, R, SQL.
+- 🌱 I’m currently upskilling in Python, R, SQL. Learning Javascript from scratch.
 - 💞️ I’m looking for an internship!
  
 <!---
